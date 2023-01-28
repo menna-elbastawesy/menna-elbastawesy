@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Menna Adel</h1>
 <h3 align="center">A Passionate Google Certified UI/UX Designer👩🏻‍💻</h3>
-<img align="right" alt="Design" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&psig=AOvVaw0b2KgSWKd-ktJEXlm5Qii4&ust=1674989058586000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCU-NCK6vwCFQAAAAAdAAAAABAV">
+<img align="right" alt="Design" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas.gif">
 - 🔭 I’m currently working in **Serv5 Company**
 
 - 🌱 I’m currently learning **Flutter , Dart , Firebase**
