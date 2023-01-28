@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/mennaelbasta](https://www.behance.net/mennaelbasta)
 
-- 💬 Ask me about **Ux Design Concepts**
+- 💬 Ask me about **Ux Design Concepts , UI design, Userflow , Research ,Wireframing, Prototyping ,Logo Design ,Branding**
 
 - 📫 How to reach me **menna.elbastawesy19@gmail.com**
 
