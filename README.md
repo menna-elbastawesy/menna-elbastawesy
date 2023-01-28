@@ -8,7 +8,9 @@
 
 - 👨‍💻 All of my projects are available at https://www.behance.net/mennaelbasta
 
-- 💬 Ask me about **Ux Design Concepts**
+- 💬 Ask me about **Ux Design Concepts - User Research - Persona - Information Architecture - User Flow  - Story boards - Wireframes - Mockups
+Prototyping - Case studying
+**
 
 - 📫 How to reach me **menna.elbastawesy19@gmail.com**
 
