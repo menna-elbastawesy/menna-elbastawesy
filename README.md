@@ -8,16 +8,11 @@
 
 - 👨‍💻 All of my projects are available at https://www.behance.net/mennaelbasta
 
-- 💬 Ask me about **Ux Design Concepts - User Research - Persona - Information Architecture - User Flow  - Story boards - Wireframes - Mockups
+- 💬 Ask me about Ux Design Concepts - User Research - Persona - Information Architecture - User Flow  - Story boards - Wireframes - Mockups
 Prototyping - Case studying
-**
+
 
 - 📫 How to reach me **menna.elbastawesy19@gmail.com**
- 
--  Pioneer ERP
--  UI/UX Designer | August, 2022 - December, 2022
-  It's ERP system i'm responsible for creating a new user-interface design for their point of sell, dashboard 
-  and Some pages for their dedicated mobile app to make it   more useable and easy to use for their users
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
