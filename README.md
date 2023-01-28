@@ -35,7 +35,7 @@ Prototyping - Case studying
 </p>
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Menna&show_icons=true&theme=dracula"
+  srcset="https://github-readme-stats.vercel.app/api?username=Menna&show_icons=true&theme= synthwave"
   media="(prefers-color-scheme: dark)"
 />
 <source
