@@ -33,15 +33,15 @@ Prototyping - Case studying
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menna )](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Menna&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Menna&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Menna&show_icons=true" />
 </picture>
