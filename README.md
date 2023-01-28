@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **menna.elbastawesy19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11KjVULQzCYHwofxIydamNeewSiWIq7Zh/view?usp=share_link](https://drive.google.com/file/d/11KjVULQzCYHwofxIydamNeewSiWIq7Zh/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ressamin ben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ressamin ben" height="30" width="40" /></a>
